@@ -1,0 +1,15 @@
+{
+  "packages": [
+    {
+      "id": "com.webos.app.enactbrowser",
+      "title": "Enact Browser",
+      "version": "1.0.0",
+      "type": "web",
+      "iconUri": "https://raw.githubusercontent.com/webosbrew/apps-repo/main/packages/com.webos.app.enactbrowser.png",
+      "sourceUrl": "https://github.com/webosbrew/apps-repo",
+      "description": "Navegador web baseado em Enact para testes no webOS Homebrew.",
+      "manifestUrl": "https://raw.githubusercontent.com/webosbrew/apps-repo/main/packages/com.webos.app.enactbrowser.yml"
+    }
+  ]
+}
+
